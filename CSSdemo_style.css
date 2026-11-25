@@ -1,0 +1,25 @@
+    .title{
+        color: pink;
+        background-color: rgb(252, 97, 97);
+        }
+
+    h1{
+        color: blue;
+        }
+
+    div{
+        width: 300px;
+        border: 1px solid black;
+        padding: 10px;
+        margin: 10px;
+        margin: 20px 20px;
+        display: inline-block;
+        }
+    
+    .container{
+        background-color: rgb(255, 231, 186);
+    }
+
+    .container2 p{
+        color: coral;
+    }
